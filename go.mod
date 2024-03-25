@@ -7,9 +7,8 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/kubernetes-csi/csi-lib-utils v0.17.0
 	github.com/kubernetes-csi/csi-test/v5 v5.2.0
-	github.com/onsi/ginkgo/v2 v2.16.0
+	github.com/onsi/ginkgo/v2 v2.17.1
 	github.com/onsi/gomega v1.30.0
-	github.com/stretchr/testify v1.9.0
 	google.golang.org/grpc v1.62.0
 	k8s.io/api v0.29.3
 	k8s.io/apimachinery v0.29.3
@@ -22,7 +21,7 @@ require (
 require (
 	emperror.dev/errors v0.8.1 // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
 )
 
 require (
